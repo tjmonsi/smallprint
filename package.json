@@ -1,0 +1,19 @@
+{
+  "name": "smallprint",
+  "version": "0.0.1",
+  "description": "A webapp structure that maintains an initial small footprint of kilobytes to load essential interactive styled content to any browser for fast loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmonsi/smallprint.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmonsi/smallprint/issues"
+  },
+  "homepage": "https://github.com/tjmonsi/smallprint#readme"
+}
